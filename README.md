@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This countdown timer limit is within it;s code so a user has to set the limit in the code itself .
+
+This countdown timer limit is within it's code so a user has to set the limit in the code itself .
 
 ## Available Scripts
 
